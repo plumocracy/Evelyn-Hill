@@ -1,13 +1,13 @@
 ## Hi!
 
-### I make video games.
+### I make cool software.
 <hr>
 
 ### Aqua
-Is a 2d and soon to be 3d game framework that I'm currently spending about half of my programming time on.
-
-### Tap Water Games
-Is my game studio. We make short and fun experiences usually for free or cheap.
+Is a 2d and soon to be 3d game framework that I'm currently working on.
 
 #### Languages
-I usually write C++ but I've been enjoying Odin a lot recently as well. All of my professional work is done in C++.
+I usually write C++ but I've been enjoying web/typescript a lot recently as well. 
+
+#### Goals
+Right now I'm targeting a junior position as a gameplay or audio programmer. I'm spending a majority of my programming time studying audio programming.
