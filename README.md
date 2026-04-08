@@ -4,4 +4,4 @@
 <hr>
 
 #### Goals
-I'm building. I'll announce what I'm building soon. 
+I build things and stuff and have fun making computers go as fast as possible.
